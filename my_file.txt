@@ -1,0 +1,6 @@
+Line 1: This is some text.
+Line 2: You can write numbers too: 42
+Line 3: And mix data types!
+Line 4: Appending some more content.
+Line 5: This is in append mode.
+Line 6: Enjoy file handling!
